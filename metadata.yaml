@@ -1,0 +1,40 @@
+_repo: A-drunk-man-looks-at-the-thistle_72731
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDiarmid, Hugh
+    aliases:
+    - M'Diarmid, Hugh
+    - McDiarmid, Hugh
+    - Grieve, Christopher Murray
+    - Leslie, Arthur
+    birthdate: 1892
+    deathdate: 1978
+    gutenberg_agent_id: '56788'
+    url: http://www.gutenberg.org/2009/agents/56788
+    wikipedia: https://en.wikipedia.org/wiki/Hugh_MacDiarmid
+description: 'Wikipedia: https://en.wikipedia.org/wiki/A_Drunk_Man_Looks_at_the_Thistle'
+gutenberg_issued: '2024-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72731'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/inu.32000001380395
+pgterms:marc905: 20230316043805macdiarmid
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Aaron Adrignola, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aEdinburgh :$bWilliam Blackwood & Sons, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Poetry'
+- !lcsh 'Scottish poetry'
+- !lcsh 'Dialect poetry, Scottish'
+- !lcc 'PR'
+- GITenberg
+title: A drunk man looks at the thistle
+url: http://www.gutenberg.org/ebooks/72731
